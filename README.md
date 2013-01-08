@@ -1,4 +1,0 @@
-wins
-====
-
-my own blog
